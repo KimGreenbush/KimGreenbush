@@ -1,6 +1,7 @@
 ## Hi there! Welcome to my GitHub 👋
 - 😄 Pronouns: She/Her
-- 🌱 I’m currently learning how to write Unit Testing in C#
+- 🌱 I’m currently learning how to use Vue.js
+- 🌱 I’m interested in learning about Unit Testing in C#
 
 [![Kimberley's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGreenbush&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
