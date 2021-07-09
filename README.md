@@ -1,7 +1,8 @@
-## Hi there! Welcome to my GitHub 👋
+## Hi there and Welcome! 👋
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently learning how to use Vue.js
 - 🌱 I’m interested in learning about testing and automation
+- 💬 Check me out on [LinkedIn](https://www.linkedin.com/in/kimberley-greenbush/)
 
 [![Kimberley's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGreenbush&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
