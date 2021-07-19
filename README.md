@@ -1,6 +1,6 @@
 ## Hi there and Welcome! 👋
 - 😄 Pronouns: She/Her
-- 🌱 I’m currently learning how to use Vue.js
+- 🌱 I’m currently learning how to use Vue.js with Nuxt and Firebase
 - 🌱 I’m interested in learning about testing and automation
 - 💬 Check me out on [LinkedIn](https://www.linkedin.com/in/kimberley-greenbush/)
 
