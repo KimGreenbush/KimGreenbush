@@ -1,9 +1,9 @@
 ## Hi there and Welcome! 👋
 - 😄 Pronouns: She/Her
-- 🔭 I’m a Microsoft Leap Apprenticeship Program Alumni for Software Engineering! 🎇
-- 🌱 I’m currently learning how to use Vue.js and some of its extensions
-- 📖 I'm also studying algos/data structures for tech interviews!
+- 🌱 I’m currently learning how to use VueJS, NuxtJS, and the extensions
+- 📖 I'm studying algos/data structures for tech interviews!
 - 🧪 I’m interested in learning about testing and automation
+- - 🔭 Accomplishment: Microsoft Leap Apprenticeship Program for Software Engineering! 🎇
 - 💬 Check me out on [LinkedIn](https://www.linkedin.com/in/kimberley-greenbush/)
 
 [![Kimberley's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGreenbush&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
