@@ -1,8 +1,8 @@
 ## Hi there and Welcome! 👋
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/they
 - 🌱 I’m currently learning how to use VueJS, NuxtJS, and the extensions
-- 📖 I'm studying algos/data structures for tech interviews!
-- 🧪 I’m interested in learning about testing and automation
+- 📖 I'm studying algos/data structures!
+- 🧪 I’m interested in learning about testing, automation, and mobile app building
 - - 🔭 Accomplishment: Microsoft Leap Apprenticeship Program for Software Engineering! 🎇
 - 💬 Check me out on [LinkedIn](https://www.linkedin.com/in/kimberley-greenbush/)
 
