@@ -1,8 +1,8 @@
-## Hi there and Welcome! 👋
+## Hi there and welcome! 👋
 - 😄 Pronouns: She/they
-- 🌱 I’m currently learning how to use VueJS, NuxtJS, and the extensions
+- 🌱 I’m currently learning about VueJS, its extensions, Progressive Web Apps
 - 📖 I'm studying algos/data structures!
-- 🧪 I’m interested in learning about testing and mobile app building
+- 🧪 I’m interested in learning about mobile apps
 - - 🔭 Accomplishment: Microsoft Leap Apprenticeship Program for Software Engineering! 🎇
 - 💬 Check me out on [LinkedIn](https://www.linkedin.com/in/kimberley-greenbush/)
 
