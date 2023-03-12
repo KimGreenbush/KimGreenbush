@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about VueJS, its extensions, Progressive Web Apps
 - 📖 I'm studying algos/data structures!
 - 🧪 I’m interested in learning about mobile apps
-- - 🔭 Accomplishment: Microsoft Leap Apprenticeship Program for Software Engineering! 🎇
+  - 🔭 Accomplishment: Microsoft Leap Apprenticeship Program for Software Engineering! 🎇
 - 💬 Check me out on [LinkedIn](https://www.linkedin.com/in/kimberley-greenbush/)
 
 [![Kimberley's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGreenbush&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
