@@ -1,7 +1,5 @@
 ## Hi there and welcome! 👋
 - 😄 Pronouns: She/they
-- 🌱 I’m currently learning about VueJS, its extensions, and Progressive Web Apps
-- 📖 I'm studying algos/data structures!
 - 🧪 I’m interested in learning about mobile app development
   - 🔭 Accomplishment: Microsoft Leap Apprenticeship Program for Software Engineering! 🎇
 - 💬 Check me out on [LinkedIn](https://www.linkedin.com/in/kimberley-greenbush/)
@@ -21,4 +19,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+
+- 🌱 I’m currently learning about VueJS, its extensions, and Progressive Web Apps
+- 📖 I'm studying algos/data structures!
 -->
