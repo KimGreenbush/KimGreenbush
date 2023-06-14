@@ -1,7 +1,7 @@
 ## Hi there and welcome! 👋
 - 😄 Pronouns: She/they
 - 🧪 I’m interested in learning about mobile app development
-  - 🔭 Accomplishment: Microsoft Leap Apprenticeship Program for Software Engineering! 🎇
+- 🔭 Accomplishment: Microsoft Leap Apprenticeship Program for Software Engineering! 🎇
 - 💬 Check me out on [LinkedIn](https://www.linkedin.com/in/kimberley-greenbush/)
 
 [![Kimberley's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGreenbush&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
