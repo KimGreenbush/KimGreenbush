@@ -4,8 +4,6 @@
 - 🔭 Accomplishment: Microsoft Leap Apprenticeship Program for Software Engineering! 🎇
 - 💬 Check me out on [LinkedIn](https://www.linkedin.com/in/kimberley-greenbush/)
 
-[![Kimberley's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGreenbush&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KimGreenbush&layout=compact&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
@@ -19,6 +17,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+
+[![Kimberley's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGreenbush&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🌱 I’m currently learning about VueJS, its extensions, and Progressive Web Apps
 - 📖 I'm studying algos/data structures!
